@@ -49,5 +49,14 @@ source init_open-webui.sh
 *   [SGLang GitHub](https://github.com/sgl-project/sglang)
 *   [Open WebUI GitHub](https://github.com/open-webui/open-webui)
 
+## ✅ Tested Platforms
+
+| Platform | Status | System Spec |
+| :--- | :--- | :--- |
+| **Local Devbox** | ✅ Verified | Ubuntu 24.04 (i7-12700K) |
+| [YottaLabs.ai](https://www.yottalabs.ai/) | ✅ Verified | Ubuntu 22.04 / 24.04 |
+| [RunPod](https://www.runpod.io/) | 🚧 Planned | - |
+| [Lambda Labs](https://lambda.ai/) | 🚧 Planned | - |
+
 ---
 *Created by Fanyi Zhao (2026). MIT License.*
