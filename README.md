@@ -1,4 +1,4 @@
-# Cloud Dev Scripts
+# Cloud LLM Dev Scripts
 
 **Instant setup for cloud-based LLM development.**  
 Skip the environment configuration and start coding and testing in seconds.
