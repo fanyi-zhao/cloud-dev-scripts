@@ -25,7 +25,8 @@ source init_s3.sh
 ```
 
 ### Open WebUI
-Launches a UI for your LLM API.
+**Give your LLM a beautiful face.**  
+One command to launch the most popular chat interface on the planet, instantly connected to your API.
 ```bash
 export OPENAI_API_BASE_URL=http://localhost:8000/v1
 export OPENAI_API_KEY=sk-... 
